@@ -1,6 +1,6 @@
 # Monty Interpreter
 
-A language interpreter made in the C programming language to manage stacks and queues (LIFO and FIFO). The aim is to interpret Monty bytecodes files. [Monty](http://montyscoconut.github.io/) Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files. Monty aims to close the gap between scripting and programming languages.
+[Monty 0.98](http://montyscoconut.github.io/) is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files. Monty aims to close the gap between scripting and programming languages.
 
 #The monty program
 

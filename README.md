@@ -38,7 +38,7 @@ an error occured
 To compile this project, you can use the following command:
 
 ```
-$ make
+$ gcc -Wall -Werror -Wextra -pedantic -std=c89 *.c -o monty
 ```
 
 ## Allowable opcodes and what they do
